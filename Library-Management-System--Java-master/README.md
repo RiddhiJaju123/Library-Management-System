@@ -1,8 +1,8 @@
 # Library-Management-System-Java
 
-Description: A library management system implemented using concepts of OOP in JAVA, GUI desgined using Java Swing and MS SQL as database.
+Description: A library management system implemented using concepts of OOP in JAVA, GUI desgined using Java Swing and SQL as database.
 
-**System Users/Actors**
+**Users**
 - Librarian
 - Clerk
 - Borrower
@@ -48,21 +48,6 @@ Description: A library management system implemented using concepts of OOP in JA
    - request a loan
    
    
-  **Config setting for Running this project in your local machine**
-  
-  -For running this project , you must have installed JDK and NetBeans.
-  
-  
-  -Create a new project using netbeans and include these files in source code folder.
-  
-  
-  -The include sqljdc driver.
-  
-  
-  -Change the connection string in **dbConnectivity.java** according to your system.
-  
-  
-  -Select **LoginUI.java** and click on run file.
   
   
   
